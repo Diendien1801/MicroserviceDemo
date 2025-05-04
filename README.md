@@ -39,6 +39,7 @@ Trong từng thư mục con, mở terminal và chạy:
 
 ```bash
 npm install
+```
 ### Bước 3: Khởi động các service
 # Cửa sổ 1: Khởi động User Service
 cd user-service
