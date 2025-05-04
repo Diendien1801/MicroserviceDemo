@@ -42,16 +42,20 @@ npm install
 ```
 ### Bước 3: Khởi động các service
 # Cửa sổ 1: Khởi động User Service
+```bash
 cd user-service
 node server.js
-
+```
 # Cửa sổ 2: Khởi động Product Service
+```bash
 cd product-service
 node server.js
-
+```
 # Cửa sổ 3: Khởi động API Gateway
+```bash
 cd api-gateway
 node server.js
+```
 
 📌 Ghi chú
 Mỗi service có package.json riêng, hoạt động độc lập.
